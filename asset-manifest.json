@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13210154.css",
+    "main.js": "/static/js/main.63e0ec27.js",
+    "static/media/main-background.png": "/static/media/main-background.ec75d719117ef6a4160c.png",
+    "static/media/ethantran.png": "/static/media/ethantran.064269f5fa6c63c851d7.png",
+    "static/media/ethanlee.png": "/static/media/ethanlee.4f9e68910cb25858f3f6.png",
+    "static/media/demo.png": "/static/media/demo.2a06bf5c19e23f2f7396.png",
+    "static/media/colehuffine.png": "/static/media/colehuffine.002ea266beb2bfd4cf3e.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/chiragtripathi.png": "/static/media/chiragtripathi.ad04115c7560edd18ff0.png",
+    "static/media/img-1-1200x1000.jpg": "/static/media/img-1-1200x1000.df1442cf520034feb3b0.jpg",
+    "static/media/img-2-1200x1000.jpg": "/static/media/img-2-1200x1000.78ce5ecad91906896cd1.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/nucleo-icons.svg": "/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/ill-2.svg": "/static/media/ill-2.b82bc41ca8f27286779053cc2a544e93.svg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/argon-react.png": "/static/media/argon-react.128d71d316a8e92aff4a.png",
+    "static/media/endless-altitude-white.png": "/static/media/endless-altitude-white.c4feadc06f0d77b27542.png",
+    "static/media/nucleo-icons.eot": "/static/media/nucleo-icons.19abb5402a664606b14c.eot",
+    "static/media/nucleo-icons.ttf": "/static/media/nucleo-icons.d6a66724e7a7bf1bba65.ttf",
+    "static/media/nucleo-icons.woff": "/static/media/nucleo-icons.c82c9b7c40130b7116d3.woff",
+    "static/media/nucleo-icons.woff2": "/static/media/nucleo-icons.cba267483aa6a7cb6e33.woff2",
+    "static/media/google.svg": "/static/media/google.eae9aa9354350126d1b032847835a051.svg",
+    "static/media/github.svg": "/static/media/github.6c95555646a0ecabf549179c97bf0e7d.svg",
+    "index.html": "/index.html",
+    "main.13210154.css.map": "/static/css/main.13210154.css.map",
+    "main.63e0ec27.js.map": "/static/js/main.63e0ec27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13210154.css",
+    "static/js/main.63e0ec27.js"
+  ]
+}
